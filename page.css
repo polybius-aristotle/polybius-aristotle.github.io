@@ -1,8 +1,17 @@
-.MyGradientClass
-{
-background: #ffda54;
-background: -webkit-linear-gradient(180deg, rgba(255, 218, 84, 1) 0%, rgba(255, 255, 255, 1) 100%);
-background: -moz-linear-gradient(180deg, rgba(255, 218, 84, 1) 0%, rgba(255, 255, 255, 1) 100%);
-background: linear-gradient(180deg, rgba(255, 218, 84, 1) 0%, rgba(255, 255, 255, 1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#FFDA54", endColorstr="#FFFFFF", GradientType=0);
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+
+a:hover {
+  color: ghostwhite;
+}
+
+
+a:active {
+  color: white;
 }
